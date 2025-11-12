@@ -1,4 +1,4 @@
-# PyPSA-Earth-Status: A package for validating any PyPSA network on Earth :D
+# PyPSA-Earth-Status: A package for validating any PyPSA network on Earth
 
 ## Development Status: **under development**
 
