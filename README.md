@@ -19,23 +19,23 @@ PyPSA-Earth-Status is designed to validate PyPSA networks against available ener
 
 🤝 We warmly welcome contributions to expand the capabilities of PyPSA-Earth-Status and to build a shared foundation for model validation in open energy system research worldwide.
 
-Regional and domain expertise is crucial to interpret energy statistics and ensure refere validation procedures make sense. We are very interested in the experience on energy system modelling and using openly available energy system data sources especially for all countries of the world.
+Regional and domain expertise is crucial for interpreting energy statistics and ensure reference validation procedures make sense. We are very interested in experience in energy system modelling and the use of openly available energy system data sources for countries worldwide.
 
 ### Ways to contribute
 1. Flag existing validation needs by opening issues and joining discussions in [PyPSA-meets-Earth Discord](https://discord.gg/AnuJBk23FU) 
-2. Suggest improvements openning issues and pull request to this repository
+2. Suggest improvements by opening issues and pull requests to this repository
 3. Contribute non-code insights filling out [this form](https://docs.google.com/forms/d/1udHf6W34YI0UNg3iwQs_-oeKsyj-dzJOtETZ_-RSUhw/edit) 
 
 ## Functionality
 
-🔍 Automated validation covers the following points which accurate representation is crucial to ensure an energy system optimisation outputs are relevant:
+🔍 Automated validation covers the following points for which accurate representation is crucial to ensure energy system optimisation outputs are relevant:
 
 - **Installed capacities**: `p_nom` of generators and storage units
 - **Optimized capacities**: `p_nom_opt` of generators and storage units
 - **Transmission capacities**: `s_nom` of power lines
-- **Demand**: comparison with real-world consumption data. Currently, electricity only is covered while in future we are planning to include also sector-coupled capabilities
+- **Demand**: comparison with real-world consumption data. Currently, electricity only is covered while in future we are planning to also include sector-coupled capabilities
 
-Additionally, we are working to add validation of the energy mix modelled for a reference state of an energy system, such as some year from the past.
+Additionally, we are working to add validation of the energy mix modelled for a reference state of an energy system, such past years.
 
 ## Features
 - Automated validation of PyPSA networks against real-world data
@@ -55,7 +55,7 @@ The following repositories provide more reference data:
    - [Awesome-Electrical-Grid-Mapping](https://github.com/open-energy-transition/Awesome-Electrical-Grid-Mapping) on datasets and documents related to power grid topology, capacity and development plans
    - [Awesome-Electricity-Demand](https://github.com/open-energy-transition/Awesome-Electricity-Demand) collects datasets on electricity demand in hourly resolution
 
-Improving coverage by the regional-focused datasets is of high interest for this project. If you see any datasets relevant for your study, feel free to open an issue for notifying it and we can develop an approach to accommodate it into PyPSA-Earth-Status together.
+Improving coverage with regionally focused datasets is of high interest for this project. If you see any datasets relevant for your study, feel free to open an issue to flag them, and we can develop an approach to accommodate it into PyPSA-Earth-Status together.
 
 ## Installation
 
