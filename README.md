@@ -13,7 +13,9 @@
 
 💡 Any modeling is only as good as the underlying data and assumptions allow. For energy systems modelling it [translates](https://pypsa-earth.readthedocs.io/en/latest/customization_validation.html) into the need to quantify accuracy of modelling inputs and validating optimisation outputs against real-world data. 
 
-**PyPSA-Earth-Status** is a collaborative project aims to make that process faster, easier, and more consistent across PyPSA-meets-Earth community. The workflow is designed to validate PyPSA networks against available energy system statistics in an automated way. It provides automated procedures to compare user-provided PyPSA networks with state-of-the-art databases from authoritative sources such as IRENA, IEA, and others. By streamlining the validation process, PyPSA-Earth-Status helps modelers enhance the credibility, transparency, and quality of their modeling results saving time and allowing them to focus on what matters most: developing better energy system models.
+**PyPSA-Earth-Status** is a collaborative project aims to make that process faster, easier, and more consistent across PyPSA-meets-Earth community. The workflow is designed to validate PyPSA networks against available energy system statistics in an automated way. It provides automated procedures to compare user-provided PyPSA networks with state-of-the-art databases from authoritative sources such as IRENA, IEA, and others.
+
+By streamlining the validation process, PyPSA-Earth-Status helps modelers enhance the credibility, transparency, and quality of their modeling results saving time and allowing them to focus on what matters most: developing better energy system models.
 
 ## Contributing
 
@@ -40,7 +42,6 @@ Additionally, we are working to add validation of the energy mix modelled for a 
 ## Features
 - Automated validation of PyPSA networks against real-world data
 - Creation of reference statistics from leading reference databases
-- Demand data from Our World in Data
 - Generation of tables and visualizations for easy interpretation of results
 
 ... and we are aiming for more features with your help!
