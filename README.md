@@ -11,9 +11,9 @@
 
 **Enabling accurate and reproducible energy system modelling for every region of the world**
 
-💡 Any modeling is as good as underlaying data and assumptions allow. For energy systems modelling it translates into the need to quantify accuracy of the modelling inputs and validating optimisation outputs against real-world data. This collaborative project aims to make that process faster, easier, and more consistent across PyPSA-meets-Earth community. 
+💡 Any modeling is only as good as the underlying data and assumptions allow. For energy systems modelling it translates into the need to quantify accuracy of modelling inputs and validating optimisation outputs against real-world data. **PyPSA-Earth-Status** is a collaborative project aims to make that process faster, easier, and more consistent across PyPSA-meets-Earth community. 
 
-**PyPSA-Earth-Status** is a tool designed to validate PyPSA networks against available energy system statistics. It provides automated procedures to compare user-provided PyPSA networks with state-of-the-art databases from authoritative sources such as IRENA, IEA, and others. By streamlining the validation process, PyPSA-Earth-Status helps modelers enhance the credibility, transparency, and quality of their modeling results saving time and allowing them to focus on what matters most: developing better energy system models.
+PyPSA-Earth-Status is designed to validate PyPSA networks against available energy system statistics. It provides automated procedures to compare user-provided PyPSA networks with state-of-the-art databases from authoritative sources such as IRENA, IEA, and others. By streamlining the validation process, PyPSA-Earth-Status helps modelers enhance the credibility, transparency, and quality of their modeling results saving time and allowing them to focus on what matters most: developing better energy system models.
 
 ## Contributing
 
