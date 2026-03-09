@@ -1,2 +1,4 @@
 country_code,dataset_name,description,url,lisense,language,implemented,file_name,code_link
-global,ELECSTAT_20240808-144258,"Installed capacity",,,English,yes,data/ELECSTAT_20240808-144258,
+global,ELECSTAT_20240808-144258,"Installed capacity",,,English,yes,data/installed capacity/ELECSTAT_20240808-144258.csv,
+global,GTD-v1.1_regional_existing,"Global Transmission Database (existing)",,,English,yes,data/electricity-transmission-database/GTD-v1.1_regional_existing.csv,
+global,GTD-v1.1_regional_planned,"Global Transmission Database (planned)",,,English,yes,data/electricity-transmission-database/GTD-v1.1_regional_planned.csv,
