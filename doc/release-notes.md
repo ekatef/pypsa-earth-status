@@ -4,7 +4,7 @@
 
 ### New Features and Major Changes
 
-* 
+* [Add an inventory for data sources available for validation PR #32](https://github.com/pypsa-meets-earth/pypsa-earth-status/pull/32)
 
 ### Minor Changes and bug-fixing
 
